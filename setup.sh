@@ -55,7 +55,7 @@ echo -e "\033[1;33m🔔 Opening YouTube Channel...\033[0m"
 echo -e "\033[1;32m📺 Please Subscribe Our Channel First!\033[0m"
 echo -e "\033[1;33m🔥🔥The tool will work after subscribing.✅✅\033[0m"
 sleep 3
-termux-open-url "https://youtube.com/@hackers_colony_tech?si=B7pbtwLrlM8YbOzI"
+termux-open-url "https://youtube.com/@termux_tutorial_999?si=IjKxKLFDZHjWW7Og"
 echo -e "\033[1;36m⏳ Waiting for you to return after subscribing...\033[0m"
 sleep 10
 
